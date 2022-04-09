@@ -14,7 +14,7 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m', ''] // ganti jadi group lu
+global.linkGC = ['https://chat.whatsapp.com/BDF5D0ShUcpKRLWrlioD3E', ''] // ganti jadi group lu
 global.owner = ['6283189357509','6283189357509'] // Put your number here //owner eval
 global.kontak = ['6283189357509','6283189357509'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
