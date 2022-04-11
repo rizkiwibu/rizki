@@ -60,7 +60,7 @@ global.author = 'kenxie Botz' // ganti aja
 
 //yyy
 bc = 'kenxie Botz' //kenxie Botz Broadcast
-footer = '\n© ikyBotz'
+footer = '\n© kenxie '
 namabot = 'kenxie Botz'
 namalu = 'kenxie'
 watermark = 'kenxie Botz' //ganti aja
