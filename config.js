@@ -15,7 +15,7 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/BDF5D0ShUcpKRLWrlioD3E', ''] // ganti jadi group lu
-global.owner = ['6283189357509','6283189357509'] // Put your number here //owner eval
+global.owner = ['628521585009','628521585009'] // Put your number here //owner eval
 global.kontak = ['6283189357509','6283189357509'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6283817161861','601164215501','60166408295','601161197507','601156232697','601172962735','60182387590','60109211153','6283817161861'] // Premium user has unlimited limit
@@ -49,17 +49,17 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'https://github.com/rizkiwibu'
 kasihcaption = `Nih kak`
-namakontak1 = 'aellsm Owner Bot'
+namakontak1 = 'Akbar'
 namakontak2 = ' owner Bot'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'kenxie Botz' // ganti aja
-global.author = 'kenxie Botz' // ganti aja
+global.packname = 'Bruzk ' // ganti aja
+global.author = 'Bruzk ' // ganti aja
 
 //yyy
-bc = 'kenxie Botz' //kenxie Botz Broadcast
+bc = 'Bruzk' //Bruzk Broadcast
 footer = '\n© kenxie '
 namabot = 'kenxie Botz'
 namalu = 'kenxie'
